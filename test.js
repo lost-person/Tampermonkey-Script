@@ -2,8 +2,8 @@
 // @name         sen_label
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  敏感数据标注
-// @author       madeira zhanglu
+// @description  代码浏览
+// @author       zhanglu
 // @match        *://github.com
 // @grant        none
 // ==/UserScript==
